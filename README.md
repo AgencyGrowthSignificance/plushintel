@@ -2,7 +2,7 @@
 
 PlushIntel is a whimsical chat application designed for Labubu, the mischievous plush toy. Powered by Google's Gemini API, PlushIntel acts as a playful assistant, offering fun facts, collection tips, and toy-friendly advice.
 
-## Features
+## ✨ Features
 
 -   **Interactive Chat Interface:** A simple and cute web-based chat window.
 -   **Playful AI Assistant:** The backend is configured with a system prompt to be a helpful and playful companion for a plush toy.
@@ -10,7 +10,7 @@ PlushIntel is a whimsical chat application designed for Labubu, the mischievous 
 -   **Flask-powered:** A lightweight and simple web framework for the backend.
 -   **Gemini API Integration:** Uses the `google.generativeai` library to connect to the Gemini API.
 
-## Installation
+## 🛠️ Installation
 
 1.  **Clone the repository:**
     ```bash
@@ -35,7 +35,7 @@ PlushIntel is a whimsical chat application designed for Labubu, the mischievous 
     export GEMINI_API_KEY="your-api-key-here"
     ```
 
-## Usage
+## 💬 Usage
 
 1.  **Run the Flask application:**
     ```bash
